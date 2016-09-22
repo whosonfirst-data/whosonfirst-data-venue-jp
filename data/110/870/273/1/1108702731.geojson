@@ -1,0 +1,84 @@
+{
+  "id": 1108702731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"139.7650505,35.6766413,139.7650505,35.6766413",
+    "geom:latitude":35.676641,
+    "geom:longitude":139.765051,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marunouchi Bldg. 32F 2-4-1 Marunouchi, Chiyoda-Ku",
+    "sg:city":"Tokyo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"112-0002",
+    "sg:tags":[
+        "sankei-shimbun",
+        "iphone",
+        "ipod-touch",
+        "application",
+        "app",
+        "ui-solutions",
+        "3d-rendering"
+    ],
+    "sg:website":"http://www.yappa.co.jp/en/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85910185,
+        "102191569",
+        "85632429",
+        102031307,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rIgSookL1H20y9I3Vi0eH_35.676641_139.765051@1308163240"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"fd3a1f8bef21bddbc332183d37f61612",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "neighbourhood_id":85910185,
+            "region_id":85672817,
+            "venue_id":1108702731
+        }
+    ],
+    "wof:id":1108702731,
+    "wof:lastmodified":1474570878,
+    "wof:name":"YAPPA Corporation",
+    "wof:parent_id":85910185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sankei-shimbun",
+        "iphone",
+        "ipod-touch",
+        "application",
+        "app",
+        "ui-solutions",
+        "3d-rendering"
+    ]
+},
+  "bbox": [
+    139.7650505,
+    35.6766413,
+    139.7650505,
+    35.6766413
+],
+  "geometry": {"coordinates":[139.7650505,35.6766413],"type":"Point"}
+}

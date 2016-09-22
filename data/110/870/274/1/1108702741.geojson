@@ -1,0 +1,67 @@
+{
+  "id": 1108702741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"139.7906764,35.6856048,139.7906764,35.6856048",
+    "geom:latitude":35.685605,
+    "geom:longitude":139.790676,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"3-42-3 Nihonbashi-hamacho Chuo-ku",
+    "sg:city":"Tokyo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"103-0007",
+    "sg:website":"http://www.apptokyo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85910271,
+        "102191569",
+        "85632429",
+        102031307,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VuB9McRnui3PkXwjlCBcp_35.685605_139.790676@1308163242"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"11e772b913bfc00c55852420ecc2f07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "neighbourhood_id":85910271,
+            "region_id":85672817,
+            "venue_id":1108702741
+        }
+    ],
+    "wof:id":1108702741,
+    "wof:lastmodified":1474570878,
+    "wof:name":"App TOKYO Co.",
+    "wof:parent_id":85910271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.7906764,
+    35.6856048,
+    139.7906764,
+    35.6856048
+],
+  "geometry": {"coordinates":[139.7906764,35.6856048],"type":"Point"}
+}

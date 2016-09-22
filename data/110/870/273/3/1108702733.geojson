@@ -1,0 +1,67 @@
+{
+  "id": 1108702733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"139.7740467,35.6947171,139.7740467,35.6947171",
+    "geom:latitude":35.694717,
+    "geom:longitude":139.774047,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Higashimatsu Shita-cho Kanda, Chiyoda-ku",
+    "sg:city":"Tokyo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"101-0042",
+    "sg:website":"http://www.primeworks.jp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85910117,
+        "102191569",
+        "85632429",
+        102031307,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33ovwlpP76zsgvChMNbvVS_35.694717_139.774047@1308163242"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"c27ac2fd6a2919bece6c80036fa65511",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "neighbourhood_id":85910117,
+            "region_id":85672817,
+            "venue_id":1108702733
+        }
+    ],
+    "wof:id":1108702733,
+    "wof:lastmodified":1474570878,
+    "wof:name":"Primeworks Corp.",
+    "wof:parent_id":85910117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.7740467,
+    35.6947171,
+    139.7740467,
+    35.6947171
+],
+  "geometry": {"coordinates":[139.77404670000001,35.6947171],"type":"Point"}
+}

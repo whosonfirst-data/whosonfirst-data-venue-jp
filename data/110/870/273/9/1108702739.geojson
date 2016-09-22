@@ -1,0 +1,71 @@
+{
+  "id": 1108702739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"135.7615494,35.0112586,135.7615494,35.0112586",
+    "geom:latitude":35.011259,
+    "geom:longitude":135.761549,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"9F Oike building, 206 Takamiya-cho Nakagyo-ku",
+    "sg:city":"Kyoto",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"604-0835 ",
+    "sg:tags":[
+        "bookmarking",
+        "social-bookmarking",
+        "photo-sharing",
+        "blogging",
+        "diary",
+        "flipnote",
+        "nintendo",
+        "qa"
+    ],
+    "sg:website":"http://www.hatena.ne.jp/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pLBz0IirHIwkoxynpfAjj_35.011259_135.761549@1308163242"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"4093ea2a1a61574317e3d70145f02c91",
+    "wof:hierarchy":[],
+    "wof:id":1108702739,
+    "wof:lastmodified":1474570878,
+    "wof:name":"Hatena",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookmarking",
+        "social-bookmarking",
+        "photo-sharing",
+        "blogging",
+        "diary",
+        "flipnote",
+        "nintendo",
+        "qa"
+    ]
+},
+  "bbox": [
+    135.7615494,
+    35.0112586,
+    135.7615494,
+    35.0112586
+],
+  "geometry": {"coordinates":[135.76154940000001,35.0112586],"type":"Point"}
+}

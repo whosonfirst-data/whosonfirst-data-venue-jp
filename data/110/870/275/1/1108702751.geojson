@@ -1,0 +1,84 @@
+{
+  "id": 1108702751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"139.7075559,35.6593972,139.7075559,35.6593972",
+    "geom:latitude":35.659397,
+    "geom:longitude":139.707556,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"6F Takaden Aoyama Bldg. Shibuya 2-7-8, Shibuya-ku",
+    "sg:city":"Tokyo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"150-0002",
+    "sg:tags":[
+        "press",
+        "army",
+        "pressarmy",
+        "press-army",
+        "social-media",
+        "analytics",
+        "monitoring"
+    ],
+    "sg:website":"http://pressarmy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85911427,
+        "102191569",
+        "85632429",
+        102031307,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79r6J9iVjIMgdEFOujuoQl_35.659397_139.707556@1308163242"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"bcb549f1d188f4bdc2c03449112067ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "neighbourhood_id":85911427,
+            "region_id":85672817,
+            "venue_id":1108702751
+        }
+    ],
+    "wof:id":1108702751,
+    "wof:lastmodified":1474570878,
+    "wof:name":"Press Army",
+    "wof:parent_id":85911427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "press",
+        "army",
+        "pressarmy",
+        "press-army",
+        "social-media",
+        "analytics",
+        "monitoring"
+    ]
+},
+  "bbox": [
+    139.7075559,
+    35.6593972,
+    139.7075559,
+    35.6593972
+],
+  "geometry": {"coordinates":[139.70755589999999,35.6593972],"type":"Point"}
+}

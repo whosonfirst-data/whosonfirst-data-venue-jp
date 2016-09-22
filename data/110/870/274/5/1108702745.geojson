@@ -1,0 +1,93 @@
+{
+  "id": 1108702745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"139.769705,35.7019106,139.769705,35.7019106",
+    "geom:latitude":35.701911,
+    "geom:longitude":139.769705,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"Riverside Seven Bldf. 3F Sotokanda 2-7-9, Chiyoda-ku",
+    "sg:city":"Tokyo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"101- 0021",
+    "sg:tags":[
+        "digital-camera",
+        "cerevo-cam",
+        "cerevo-life",
+        "photo-management",
+        "photo-sharing",
+        "3g",
+        "wifi"
+    ],
+    "sg:website":"http://cerevo.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85910153,
+        "102191569",
+        "85632429",
+        102031307,
+        85672817,
+        85910155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v393NfTqSacIpFGZL7Tp1_35.701911_139.769705@1308163242"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"6d225904d3ea650f52e69d482deb884d",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "neighbourhood_id":85910153,
+            "region_id":85672817,
+            "venue_id":1108702745
+        },
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "neighbourhood_id":85910155,
+            "region_id":85672817,
+            "venue_id":1108702745
+        }
+    ],
+    "wof:id":1108702745,
+    "wof:lastmodified":1474570878,
+    "wof:name":"Cerevo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "digital-camera",
+        "cerevo-cam",
+        "cerevo-life",
+        "photo-management",
+        "photo-sharing",
+        "3g",
+        "wifi"
+    ]
+},
+  "bbox": [
+    139.769705,
+    35.7019106,
+    139.769705,
+    35.7019106
+],
+  "geometry": {"coordinates":[139.76970499999999,35.7019106],"type":"Point"}
+}

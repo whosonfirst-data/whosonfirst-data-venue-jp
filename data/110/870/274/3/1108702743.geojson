@@ -1,0 +1,90 @@
+{
+  "id": 1108702743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"139.7092976,35.6542145,139.7092976,35.6542145",
+    "geom:latitude":35.654215,
+    "geom:longitude":139.709298,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"Shibuya Tokyu Property Bldg.1501 1-32-12 Higashi, Shibuya-ku",
+    "sg:city":"Tokyo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"150-0011",
+    "sg:tags":[
+        "online-marketing",
+        "ad-network",
+        "banner",
+        "advertising",
+        "japan",
+        "tokyo",
+        "planning",
+        "meetings",
+        "events",
+        "campaigns"
+    ],
+    "sg:website":"http://agilemedia.jp/en/about/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85911479,
+        "102191569",
+        "85632429",
+        102031307,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68t3KUabogSMi2bc7i4yMr_35.654215_139.709298@1308163242"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"2cf28f7165b8f2dcef1f3aaf68c1fef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031307,
+            "neighbourhood_id":85911479,
+            "region_id":85672817,
+            "venue_id":1108702743
+        }
+    ],
+    "wof:id":1108702743,
+    "wof:lastmodified":1474570878,
+    "wof:name":"Agile Media Network",
+    "wof:parent_id":85911479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-marketing",
+        "ad-network",
+        "banner",
+        "advertising",
+        "japan",
+        "tokyo",
+        "planning",
+        "meetings",
+        "events",
+        "campaigns"
+    ]
+},
+  "bbox": [
+    139.7092976,
+    35.6542145,
+    139.7092976,
+    35.6542145
+],
+  "geometry": {"coordinates":[139.70929760000001,35.6542145],"type":"Point"}
+}

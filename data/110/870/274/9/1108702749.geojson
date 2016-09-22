@@ -1,0 +1,78 @@
+{
+  "id": 1108702749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"139.633748,35.4470518,139.633748,35.4470518",
+    "geom:latitude":35.447052,
+    "geom:longitude":139.633748,
+    "iso:country":"JP",
+    "mz:hierarchy_label":1,
+    "sg:address":"5-80 Kanagawa Chusho Kigyo Center Building, Suite 7F",
+    "sg:city":"5 Yokohama City, Kanagawa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"231-0015",
+    "sg:tags":[
+        "dango",
+        "meromero-park",
+        "japan",
+        "social-gaming"
+    ],
+    "sg:website":"http://dango-net.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85912903,
+        "102191569",
+        "85632429",
+        102031239,
+        85672805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XqiIWgjypNFQKJjboEzT1_35.447052_139.633748@1308163242"
+    },
+    "wof:country":"JP",
+    "wof:created":1474570878,
+    "wof:geomhash":"55ad013b13d9a68dd25861f218886a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632429",
+            "locality_id":102031239,
+            "neighbourhood_id":85912903,
+            "region_id":85672805,
+            "venue_id":1108702749
+        }
+    ],
+    "wof:id":1108702749,
+    "wof:lastmodified":1474570878,
+    "wof:name":"dango",
+    "wof:parent_id":85912903,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-jp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dango",
+        "meromero-park",
+        "japan",
+        "social-gaming"
+    ]
+},
+  "bbox": [
+    139.633748,
+    35.4470518,
+    139.633748,
+    35.4470518
+],
+  "geometry": {"coordinates":[139.633748,35.4470518],"type":"Point"}
+}
